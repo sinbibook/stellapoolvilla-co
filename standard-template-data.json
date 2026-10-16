@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.6.0",
-    "generatedAt": "2026-09-29T05:20:02.825073026Z",
+    "version": "1.7.0",
+    "generatedAt": "2026-10-16T02:28:09.869135391Z",
     "templateType": "trip_l",
     "propertyId": "dfc95f9e-3bf9-4736-b1c0-0989a4ec91b8",
     "homepageId": "01a0b26f-85b2-7acb-ab6a-2188ec9d83a3"
@@ -1563,6 +1563,9 @@
               "enabled": true
             }
           ]
+        },
+        "landing": {
+          "sections": [ ]
         }
       },
       "popup": {
@@ -1586,7 +1589,8 @@
             "endDate": null,
             "sortOrder": 0,
             "startDate": null,
-            "description": ""
+            "description": "",
+            "videos": [ ]
           }
         ]
       },
